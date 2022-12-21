@@ -1,2 +1,1 @@
-# Class_106
-Face Detcetion
+# PRO-C106-Student-Boilerplate
